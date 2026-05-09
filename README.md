@@ -21,12 +21,18 @@ Windows (Recommended)
 * SocToolKit_v2.5_win.zip
     Official firmware flashing tool for Windows.
 
+  User guides:
+  https://www.arkkvm.com/docs/advanced-usage/factory-reset#windows
+
 ⸻
 
 Linux
 
 * upgrade_tool_v2.55_for_linux.zip
     Command-line flashing tool.
+
+  User guides:
+  https://www.arkkvm.com/docs/advanced-usage/factory-reset#linux-ubuntu
  
 ⸻
 
@@ -34,3 +40,6 @@ macOS
 
 * upgrade_tool_v2.55_for_mac.zip
     Command-line flashing tool.
+
+  User guides:
+  https://www.arkkvm.com/docs/advanced-usage/factory-reset#macos
